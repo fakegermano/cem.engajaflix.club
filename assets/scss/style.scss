@@ -2,7 +2,12 @@
   margin-left: 10%;
   margin-right: 10%;
 }
-
+.framed {
+	background-color: rgba(250, 250, 250, .6);
+}
+.fundo-gif {
+	background: url("/img/gif-100-dias-fazendo.gif");
+}
 section {
   padding: 100px 0;
 }
