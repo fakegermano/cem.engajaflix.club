@@ -4,6 +4,12 @@ languageCode = "pt-br"
 theme = "timeline"
 defaultContentLanguage = "br"
 
+# We put this here because hugo was complaining on build, but we need
+# to remove this in the future and set the correct
+# HUGO_SERVICES_INSTAGRAM_ACCESSTOKEN os env variable
+# as (<APPID>|<CLIENTTOKEN>)
+ignoreErrors = ["error-missing-instagram-accesstoken"]
+
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
