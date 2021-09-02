@@ -1,7 +1,7 @@
 # Novo conteúdo
 
 ```
-hugo new timeline/<post_name>.md
+.\hugo new timeline/<post_name>.md
 ```
 
 # subir
