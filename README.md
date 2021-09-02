@@ -14,6 +14,9 @@ ps: troca o `<post_name>` pelo nome que você quiser
 - Não esquece de mudar o título (`title`) e se você quer publicar ou não usando o `draft`
   - `draft: false` -> aparece no site
   - `draft: true` -> não aparece no site
+- Precisa colocar uma imagem?
+  - move ela pra a pasta `static/img`
+  - usa um dos métodos de inserir imagem colocando o caminho pra ela usando `/img/<nomedoarquivo>.<extensao>`
 - Terminou de fazer o que tava fazendo e quer colocar na núvem?
 - Vai pra a janela do Github
 - Ele deve atualizar com as suas mudanças mostrando em vermelho o que tinha e verde o que você mudou
