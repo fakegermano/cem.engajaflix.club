@@ -6,6 +6,6 @@ draft: false
 
 Esse site é um arquivo/diário de bordo de set/06 a dez/14, onde todos os dias Julia Travieso posta uma etapa do processo de colocar engajaflix no mundo por pelo menos 100 dias.
 
-[insta](https://www.instagram.com/engajaflix.club/) 
-[are.na](https://www.are.na/juliagtr/100diasfazendo)
+[insta](https://www.instagram.com/engajaflix.club/) •
+[are.na](https://www.are.na/juliagtr/100diasfazendo) •
 [linkedin](https://www.linkedin.com/company/engajaflix/)
