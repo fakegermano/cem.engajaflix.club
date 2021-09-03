@@ -6,5 +6,6 @@ draft: false
 
 Esse site é um arquivo/diário de bordo de set/06 a dez/07, onde todos os dias Julia Travieso posta uma etapa do processo de colocar engajaflix no mundo por pelo menos 100 dias.
 <div align="center">
+</div>
 
 [Links](https://engajaflix.club) funcionam assim!
