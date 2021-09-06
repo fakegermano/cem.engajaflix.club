@@ -1,6 +1,6 @@
 ---
 title: "Dia 0"
-date: 2021-09-06T20:38:56-03:00
+date: 2021-09-06T20:19:15-03:00
 draft: false
 ---
 {{< figure src="/img/gif-100-dias-fazendo.gif" title="#100diasfazendo" height="100px" >}}
