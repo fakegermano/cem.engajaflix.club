@@ -1,7 +1,7 @@
 ---
 title: "Dia 1"
 date: 2021-09-07T14:02:24-03:00
-draft: true
+draft: false
 ---
 como as coisas crescem?
 {{< figure src="/img/mudinhas.jpeg" title="mudinhas" height="100px" >}}
@@ -15,4 +15,3 @@ A verdade é que todas as coisas tem seu tempo, se colocar água ou sol demais, 
 engajaflix hoje, está em seu tempo e sua versão perfeita. avante!
 Deixo aqui o link da minha playlist pra cuidar do jardim pra você curtir os momentos de paz:
 <iframe src="https://open.spotify.com/embed/playlist/4VSZkatVOIOI8slDUOxoDj" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
- 
