@@ -5,7 +5,7 @@ draft: false
 ---
 como as coisas crescem?
 
-{{< figure src="/img/mudinhas.jpeg" title="mudinhas" height="1600px" width="1200px" >}}
+![mudinhas](/img/mudinhas.jpeg)
 
 Eu me pego pensando isso frequentemente. Sejam as plantas, as pessoas ou as ideias, todas crescem mais ou menos do mesmo jeito: a gente planta uma semente, alimenta com uma comida gostosa, hidrata e cuida pra evitar qualquer mal que impeça esse crescimento. 
 
@@ -18,7 +18,7 @@ Hoje foi feriado e consegui cuidar das plantinhas que estavam há algumas semana
 Esse quadro é meu fiel companheiro nessa aventura de trazer engajaflix pro mundo. Apesar desse ser o dia 1 oficial registrando esse caminho aqui, já venho andando com essa ideia há quase um ano, quando ela era ainda uma semente e eu não sabia nem se ia brotar. A cada nova etapa no desenvolvimento desse processo, eu começo todo o quadro do zero, guardo os post its anteriores pra deixar arquivado e poder voltar atrás se for necessário, mas gosto de começar com ele vazio, pra ter espaço pra as novas possibilidades que só consigo enxergar agora. 
 A verdade é que todas as coisas tem seu tempo, se colocar água ou sol demais, a planta morre, se tirar a massa antes do tempo, a panqueca fica crua, se deixar demais, queima. As ideias também são assim, crescem junto com a gente e a pressa por um resultado impecável só traz frustração. 
 engajaflix hoje, está em seu tempo e sua versão perfeita. :sunflower: 
----
+
 Deixo aqui o link da minha playlist pra cuidar do jardim e curtir os momentos de paz:
 
 <iframe src="https://open.spotify.com/embed/playlist/4VSZkatVOIOI8slDUOxoDj" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
