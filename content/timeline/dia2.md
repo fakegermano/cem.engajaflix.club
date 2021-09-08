@@ -14,7 +14,7 @@ Agora que estou participando desse ambiente empresarial de uma forma mais ativa,
 
 Eu detesto a onda de conteúdo vazio que enche a timeline, mas ainda assim precisei reconhecer que esse também é um ponto de conexão com pessoas que ainda não conheço e comecei a pensar sobre a mensagem que aquele perfil estava passando. Olhar tudo com essa visão 'de fora' me ajudou a organizar as ideias e na hora de atualizar todos os campos que estavam abandonados há uns anos, acabei encontrando uma Julia que eu nem sabia que poderia ser. 
 
-É como se cada projeto de extensão, curso, pesquisa e estudo que fiz ao longo da vida tivesse sido planejado pra me trazer exatamente onde estou hoje. Dizem que o retorno de saturno faz isso, quando a gente chega nos 30, faz um 360° de toda a vida e consegue enxergar o caminho com mais clareza. 
+É como se cada projeto de extensão, curso, pesquisa e estudo que fiz ao longo da vida tivesse sido planejado pra me trazer exatamente onde estou hoje. Dizem que o retorno de saturno traz isso, quando a gente chega nos 30, faz um 360° de toda a vida e consegue enxergar o caminho com mais clareza. 
 
 Meu perfil é [esse aqui](https://www.linkedin.com/in/julia-travieso-1b576956/). Recomendo um dia você sentar pra fazer esse exercício também, às vezes tudo o que precisamos para ter coragem de fazer algo novo é enxergar com clareza quem somos, o que é importante na nossa formação e para onde queremos ir agora. A vida tem o costume de iluminar os caminhos. 
 
