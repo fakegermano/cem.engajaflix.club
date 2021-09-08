@@ -5,7 +5,7 @@ draft: false
 ---
 como contar nossa própria história?
 
-![octavia butler](/img/octaviabutler.jpg)
+![octavia butler](/img/octaviabutler.jpeg)
 "Toda história que eu crio, me cria também. Eu escrevo para criar a mim mesma". 
 
 Quando somos os protagonistas, escritores, editores e revisores da nossa própria história, fica um pouco difícil ter objetividade. Pra mim é sempre muito tenso reconhecer a evolução da minha caminhada, fico tão focada no que ainda precisa ser feito que acabo esquecendo tudo o que já consegui. 
