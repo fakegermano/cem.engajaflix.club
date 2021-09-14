@@ -27,4 +27,4 @@ quando começo a me sentir sugada por esses discursos superficiais, vou atrás d
 
 recomendo super essa entrevista aqui:
 
-<iframe class="embed-responsive-item" src="(<iframe class="embed-responsive-item" src="(coloque o link aqui)" width="100%" height="800" scrolling="no"></iframe>)" width="100%" height="800" scrolling="yes"></iframe>
+<iframe class="embed-responsive-item" src="(https://www.vulture.com/2018/01/erykah-badu-in-conversation.html)" width="100%" height="800" scrolling="yes"></iframe>
