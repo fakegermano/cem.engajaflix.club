@@ -1,0 +1,22 @@
+{{/*
+
+USAGE:
+
+{{< omnicomment>}}
+    commented
+    out
+{{< /omnicomment>}}
+
+Forked from: github.com/gohugoio/hugoDocs/blob/master/layouts/shortcodes/todo.html
+
+Path: layouts/shortcodes/omnicomment.html
+
+Purpose: comment in content file written in any markup language Hugo supports
+
+Why 1: no comment translation needed when change file from, e.g., .md to .adoc
+
+Why 2: comment out big chunk that contains multiple markup comments[8]
+
+*/}}
+
+{{ if .Inner }}{{ end }}

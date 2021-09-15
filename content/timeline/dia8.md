@@ -27,7 +27,21 @@ quando começo a me sentir sugada por esses discursos superficiais, vou atrás d
 
 recomendo super essa entrevista aqui:
 
-![vulture](/img/vulture_badu.png)
+{{< omnicomment >}}
+oi julia! aqui é um jeito que pensei em botar, vc pode fazer parecido ou igual nas proximas.
 
-[leia a entrevista](https://www.vulture.com/2018/01/erykah-badu-in-conversation.html)
+as partes importantes são: 
+ - alt: descrição pra cegos ou se alguma internet for tao ruim que a imagem nao carrega 
+ - link: o link que você quer mandar a pessoa se ela clicar na imagem, se nao quiser pode tirar ele (junto com o target="_blank") 
+ - target="_blank": é só um jeito te avisar o navegador que é pra abrir uma aba nova quando a pessoa clicara assim nao saem do seu site 
+ - attr: se for uma foto que tem "créditos/copyright" coloca o nome do autor/texto do crédito aqui 
+ - attrlink: se o autor tiver rede social/site/link coloca aqui 
+     nesse caso a imagem ja tinha créditos pra o autor nela mesma, então aproveitei pra fazer link pra pessoas velhas que não pensam em clicar na imagem
+
+PS: ignore isso de omnicomment, é só um jeito de eu conseguir escrever coisas que nunca aparecem no site de verdade
+PS2: se vc quiser deixar mensagens pra vc mesma no site é assim que faz kkkk
+PS3: isso fica disponível no repositório do github (tipo aqui: https://github.com/fakegermano/cem.engajaflix.club/blob/master/content/timeline/dia8.md) então nada de colocar coisas secretas assim :P
+{{< /omnicomment >}}
+
+{{< figure src="/img/vulture_badu.png" alt="screenshot matéria de revista Vulture em entrevista com Erikah Badu" link="https://www.vulture.com/2018/01/erykah-badu-in-conversation.html" attr="acesse aqui" attrlink="https://www.vulture.com/2018/01/erykah-badu-in-conversation.html" title="Leia a entrevista: Em Conversa: Erykah Badu" >}}
 
