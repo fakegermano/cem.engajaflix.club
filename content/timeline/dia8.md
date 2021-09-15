@@ -31,4 +31,3 @@ recomendo super essa entrevista aqui:
 
 [leia a entrevista](https://www.vulture.com/2018/01/erykah-badu-in-conversation.html)
 
-https://www.vulture.com/2018/01/erykah-badu-in-conversation.html
