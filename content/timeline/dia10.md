@@ -12,7 +12,7 @@ esse é o nome da playlist da Larissa Dias que reúne músicas gringas que sampl
 
 além de uma ótima companhia pra uma tarde de vento frio, essa playlist lembra a gente que a criatividade brasileira é referência pra muitas pessoas.
 
-a síndrome de vira-lata é real e às vezes nos pegamos dando mais atenção pra as criações de fora do que enxergar o potencial que existe no nosso próprio território.
+a síndrome de vira-lata é real e às vezes nos pegamos dando mais atenção pra as criações de fora do que enxergando o potencial que existe no nosso próprio território.
 
 engajaflix começou com essa provocação, de encontrar as pessoas que estão fazendo novos mundos aqui no BR mesmo.
 
