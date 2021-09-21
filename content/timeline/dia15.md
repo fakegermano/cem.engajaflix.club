@@ -12,9 +12,9 @@ se você tivesse que fazer uma lista com as top 3 coisas que você mais odeia fa
 
 as minhas são:
 
-1- finanças
-2- 
-3- 
+1- finanças </br>
+2- </br>
+3- </br>
 
 com a lista pronta, precisamos tomar alguma atitude, além do puro suco do ódio que dá só olhar pra essas palavras.
 no meu caso, o primeiro lugar é de longe, tudo o que tem a ver com finanças, sempre fui o meme 'eu sou de humanas', odeio números, não consigo entender um monte de coisa e pra piorar o dinheiro nunca é muito, então existe um grande malabarismo aí que preciso fazer pra dar conta de tudo a cada mês.
