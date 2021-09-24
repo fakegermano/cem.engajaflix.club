@@ -22,7 +22,7 @@ a primeira etapa do nosso trabalho com engajaflix foi desenvolver o Mapeamento d
 
 {{< figure src="/img/mapeamento16-09.png" alt="screenshot do mapeamento de projetos independentes da economia criativa no brasil" title="Mapeamento da Economia Criativa BR" >}}
 
-estamos fazendo esse trabalho pelos formulários do google e as perguntas desenvolvidas além de ajudar os Fazedoras a organizar as próprias ideias, também ajudam a gente a ter uma noção dos sonhos, medos e necessidades da galera.
+estamos fazendo esse trabalho pelos formulários do google e as perguntas desenvolvidas além de ajudar os Fazedores a organizar as próprias ideias, também ajudam a gente a ter uma noção dos sonhos, medos e necessidades da galera.
 
 Se o que você produz gera renda, cultura, mudanças para a sociedade e ainda é sustentável, então, você faz parte do mapa da economia criativa. Preencha esse formulário para que o seu trampo seja mapeado!
 
