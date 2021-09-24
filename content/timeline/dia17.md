@@ -6,4 +6,5 @@ draft: false
 
 diga com quem andas...
 
-{{< figure src="/img/comquemandas.mp4" alt="um boomerang da minha mesa vista de cima. aparece meu cabelo, uma agenda onde estou escrevendo algumas coisas e o bart - meu cachorro- querendo dar um abracinho do lado." >}}
+{{< figure src="/img/comquemandas.jpeg" alt="um boomerang da minha mesa vista de cima. aparece meu cabelo, uma agenda onde estou escrevendo algumas coisas e o bob - meu cachorro- querendo dar um abracinho do lado." >}}
+
