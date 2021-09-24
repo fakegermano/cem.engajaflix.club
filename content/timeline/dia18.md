@@ -8,7 +8,7 @@ compartilhar
 
 {{< figure src="/img/ipê.jpeg" alt="uma foto que tirei de um ipê branco em uma manhã de domingo qualquer" >}}
 
-valores, experiências, conhecimentos e esperaça de transformação
+valores, experiências, conhecimentos e esperança de transformação
 
 ontem falei sobre a importância de construir relacionamentos e [parcerias](https://cem.engajaflix.club/timeline/dia17/) fortes. No [dia 9](https://cem.engajaflix.club/timeline/dia9/) falei sobre conhecer bem a pessoa (persona) com quem estamos conversando, saber seus medos e seus sonhos, estabelecer boas conversas. No [dia 8](https://cem.engajaflix.club/timeline/dia8/) falei um pouco sobre a histeria da 'reputação' e da 'autoridade' nas fórmulas de sucesso que achamos por aí. 
 
