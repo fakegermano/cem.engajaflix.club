@@ -16,6 +16,6 @@ hoje reencontrei esse destaque nas minhas anotações e foi instantânea a conex
 
 na época essa frase ressoou de uma forma, hoje já fiz uma leitura diferente, é bom demais esbarrar nessas notas do passado e receber mensagens diferentes.
 
-o mapeamento é sobre isso: encontrar as pessoas que compartilham das mesmas visões de mundo, para juntes podermos criar esses super fluxos e caminhos de informação.
+no fim das contas, o mapeamento é sobre isso: encontrar as pessoas que compartilham das mesmas visões de mundo, para juntes podermos criar esses super fluxos e caminhos de informação.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1XP_vJt4lsx-qTJk2k8_hQT_in2O3MINpABdoOwAma30DNw/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
