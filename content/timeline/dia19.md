@@ -6,7 +6,8 @@ draft: false
 
 confluência
 
-{{< figure src="/img/confluencia.jpg" alt="uma imagem do Rio Negro vista de cima. Em volta é uma mata verde e no centro da imagem são vários corpos d'água em um azul bem escuro quase preto se juntando em um mesmo ponto">}}
+{{< figure src="/img/confluencia.jpg" alt="uma imagem do Rio Negro vista de cima. Em volta é uma mata verde e no centro da imagem são vários corpos d'água em um azul bem escuro quase preto se juntando em um mesmo ponto">}} Photo by <a href="https://unsplash.com/@usgs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">USGS</a> on <a href="https://unsplash.com/s/photos/amazon-river?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 quando um ou mais corpos [de água] se unem para formar um único canal
 
