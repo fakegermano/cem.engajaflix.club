@@ -6,7 +6,7 @@ draft: false
 
 confluência
 
-{{< figure src="/img/confluencia.jpg" alt="uma imagem do Rio Negro vista de cima. Em volta é uma mata verde e no centro da imagem são vários corpos d'água em um azul bem escuro quase preto se juntando em um mesmo ponto"}}
+{{< figure src="/img/confluencia.jpg" alt="uma imagem do Rio Negro vista de cima. Em volta é uma mata verde e no centro da imagem são vários corpos d'água em um azul bem escuro quase preto se juntando em um mesmo ponto">}}
 
 quando um ou mais corpos [de água] se unem para formar um único canal
 
