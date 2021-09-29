@@ -17,3 +17,10 @@ uma das primeiras ideias que tive pra a divulgação do lançamento de engajafli
 foram feitas diveras versões de possibilidades de dobra, ideias de conteúdo, escolha de cores e formas, até chegar na versão que será impressa em serigrafia manual essa semana. [ansiosa estou hihi]
 
 esse é só um exemplo de como precisamos seguir desenvolvendo e aperfeiçoando nossas ideias, pra que eventualmente elas possam vir ao mundo como algo relevante e não só mais um tiro no escuro. 
+
+um minuto de apreciação pra a equipe responsável por esse conteúdo maravilhoso:
+
+[euzinha](https://www.linkedin.com/in/juliagtr/) na direção de conteúdo e estratégia
+[Ana Guidi](https://www.behance.net/anacguidi) na direção de arte e design
+[Fernanda Saito](https://www.instagram.com/saitofff/) na pesquisa e elaboração de conteúdo
+[Júlia Comin](https://www.instagram.com/cominj/) a braba da serigrafia, em parceria com Quadrado Amarelo. 
