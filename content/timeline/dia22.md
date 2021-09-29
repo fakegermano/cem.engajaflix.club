@@ -26,4 +26,4 @@ um minuto de apreciação pra a equipe responsável por esse conteúdo maravilho
 
 [Fernanda Saito](https://www.instagram.com/saitofff/) na pesquisa e elaboração de conteúdo
 
-[Júlia Comin](https://www.instagram.com/cominj/) a braba da serigrafia, em parceria com [Quadrado Amarelo](https://www.instagram.com/quadradoammarelo/). 
+[Júlia Comin](https://www.instagram.com/cominj/) a braba da serigrafia, em parceria com [Quadrado Amamrelo](https://www.instagram.com/quadradoammarelo/). 
