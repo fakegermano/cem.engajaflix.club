@@ -20,7 +20,10 @@ esse é só um exemplo de como precisamos seguir desenvolvendo e aperfeiçoando 
 
 um minuto de apreciação pra a equipe responsável por esse conteúdo maravilhoso:
 
-[euzinha](https://www.linkedin.com/in/juliagtr/) na direção de conteúdo e estratégia
+[euzinha](https://www.linkedin.com/in/juliagtr/) na direção de conteúdo e estratégia 
+
 [Ana Guidi](https://www.behance.net/anacguidi) na direção de arte e design
+
 [Fernanda Saito](https://www.instagram.com/saitofff/) na pesquisa e elaboração de conteúdo
+
 [Júlia Comin](https://www.instagram.com/cominj/) a braba da serigrafia, em parceria com [Quadrado Amarelo](https://www.instagram.com/quadradoammarelo/). 
