@@ -1,11 +1,11 @@
-<h1 id='countdown-{{ .Get "id" }}' class="countdown"></h1>
+<span id='countdown-{{ .Get "id" }}' class="countdown"></span>
 <script type="text/javascript">
 (function() {
 	var f   = function(n) { return n < 10 ? "0"+n : n }
 	var out = function(d, h, m, s) { return f(d) + "d, " + f(h) + "h, " + f(m) + "m and " + f(s) + "s" }
 	var el  = document.getElementById('countdown-{{ .Get "id" }}')
-	var to  = new Date({{ .Get "date" }})
-	tInterval(function() {
+	var to  = new Date('{{ .Get "date" }}')
+	setInterval(function() {
 		var diff = (to.getTime() - Date.now())/1000
 		if (diff > 0) {
 			el.innerText = out(

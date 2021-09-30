@@ -1,5 +1,14 @@
 @import "variables";
 
+.countdown {
+	font-size: 3rem;
+	color: $dark-primary;
+	font-weight: 700;
+
+	.dark-theme & {
+		color: $primary;
+	}
+}
 .hero-table { 
   margin-left: 30%;
   margin-right: 30%;
