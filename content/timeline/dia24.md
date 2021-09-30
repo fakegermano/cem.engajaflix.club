@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-minha primeira mentoria
+atualizações da aceleração - minha primeira mentoria
 
 {{< figure src="/img/mentoria1.jpeg" alt="uma foto que tirei da tela do computador enquanto esperava começar uma videochamada" >}}
 
