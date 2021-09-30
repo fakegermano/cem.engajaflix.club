@@ -5,7 +5,7 @@
 	var out = function(d, h, m, s) { return f(d) + "d, " + f(h) + "h, " + f(m) + "m and " + f(s) + "s" }
 	var el  = document.getElementById('countdown-{{ .Get "id" }}')
 	var to  = new Date({{ .Get "date" }})
-	setInterval(function() {
+	tInterval(function() {
 		var diff = (to.getTime() - Date.now())/1000
 		if (diff > 0) {
 			el.innerText = out(
