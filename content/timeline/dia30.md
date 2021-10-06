@@ -16,4 +16,4 @@ temos o costume de fazer festa e celebrar os grandes momentos, aqueles que a gen
 
 chego hoje no dia 30 com um convite pra você, que vem acompanhando essa trajetória e pensando se daria conta de fazer algo parecido, você que quer aprender a lidar melhor com as demandas de produção das redes sociais, que quer ter clareza de como e com quem falar. 
 
-você que tá querendo botar sua história no mundo e não sabe por onde começar, começa aqui: [30dias.engajaflix.club](30dias.engajaflix.club)
+você que tá querendo botar sua história no mundo e não sabe por onde começar, começa aqui: [30dias.engajaflix.club](https://30dias.engajaflix.club)
