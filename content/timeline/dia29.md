@@ -6,7 +6,7 @@ draft: false
 
 spoiler pra quem gosta de spoiler pt 2
 
-{{< figure src="/img/spoiler10.jpeg" alt="uma da parede do ateliê Quadrado Ammarelo que tem uns quadros e um espelho bem pequeno. tirei uma foto de mim mesma de máscara nesse espelho com a câmera enquanto fazia algumas imagens" >}}
+{{< figure src="/img/spoiler10.jpeg" alt="uma foto da parede do ateliê Quadrado Ammarelo que tem uns quadros e um espelho bem pequeno. tirei uma foto de mim mesma de máscara nesse espelho com a câmera enquanto fazia algumas imagens" >}}
 
 hoje foi dia de terminar de organizar as coisas pra a novidade de amanhã (essa parte não tem spoiler ainda). 
 
