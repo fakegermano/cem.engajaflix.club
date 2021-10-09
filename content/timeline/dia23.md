@@ -8,3 +8,7 @@ faltam 7 dias - contagem regressiva
 
 
 {{< countdown id="suspense" date="10/06/2021" >}}
+
+atualização 06/10:
+
+foi lançado o desafio https://30dias.engajaflix.club
