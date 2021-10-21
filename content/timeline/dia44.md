@@ -6,7 +6,7 @@ draft: false
 
 julias tomando café
 
-{{< figure src="/img/jug.jpg" alt="a foto é da perspectiva da minha amiga que tava na mesa sentada na minha frente. eu apareço com um chapeuzinho preto estampado com desenhos de cebolinhas, uma blusinha verde de lâ, regata e gola alta, uma camisa preta e branca por cima e um casaco azul bem escuro por cima de tudo. to sorrindo e raspando o fundinho de uma chícara com uma colherzinha com aquela cara de queria mais" >}}
+{{< figure src="/img/jug.jpg" alt="a foto é da perspectiva da minha amiga que tava na mesa sentada na minha frente. eu apareço com um chapeuzinho preto estampado com desenhos de cebolinhas, uma blusinha verde de lâ, regata e gola alta, uma camisa preta e branca por cima e um casaco azul bem escuro por cima de tudo. to sorrindo e raspando o fundinho de uma xícara com uma colherzinha com aquela cara de queria mais" >}}
 
 posso dizer com toda confiança que as julias são babado certo. toda julia que conheci na vida é papo de excelência em tudo o que se propõe a fazer, espero estar honrando o nome também.
 
