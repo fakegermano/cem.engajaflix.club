@@ -21,3 +21,5 @@ foi muito doido ler essa frase e perceber os vários pontos de conexão com enga
 no fim da noite fui assistir a estréia oficial do filme [A felicidade das coisas](https://www.youtube.com/watch?v=OvvXfpjJeJc), uma produção brasileira maravilhosa que foi o melhor retorno que eu poderia ter feito às salas de cinema depois de quase 3 anos.
 
 📌 lembrei também que tenho uma dívida: a live. vou fazer amanhã, pelo insta @engajaflix.club mesmo, ainda não sei mto bem que horas, mas sem hora pra acabar pra dar tempo de falar da vida e responder perguntas sobre o desafio [30dias.engajaflix.club](30dias.engajaflix.club) que começa na segunda (25/10).
+
+-- esse post era pra ter saído ontem de madrugada mas por problemas técnicos tá saindo só agora chorrindo
