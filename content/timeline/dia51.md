@@ -12,4 +12,4 @@ hoje fiquei exatas 12h (e contando) na frente do pc trabalhando, sem nem um minu
 
 esse tempinho chuvoso e gelado no combo com a tpm sem nem poder me enrolar no sofá e maratonar uma série em paz foi uó, mas graças à Babi, que fez esse mingau delicioso no ápice da minha irritação e dor nas costas, sobrevivi o dia pra contar essa história. 
 
-apesar da loucura, continuam entrando novos fazedores aventureiros pra o desafio [30dias.engajaflix.club](30dias.engajaflix.club), a galera continua desenvolvendo sua comunicação aos pouquinhos e eu vejo meus planos mais perto de se tornarem realidade. 💖
+apesar da loucura, continuam entrando novos fazedores aventureiros pra o desafio [30dias.engajaflix.club](https://30dias.engajaflix.club), a galera continua desenvolvendo sua comunicação aos pouquinhos e eu vejo meus planos mais perto de se tornarem realidade. 💖

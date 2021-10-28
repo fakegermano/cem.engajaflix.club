@@ -10,4 +10,4 @@ finalizando tudo pro desafio 30dias.engajaflix.club
 
 segunda feira (25) começa o desafio e hoje foi dia de ajustar todos os detalhes finais. a live ficou pra depois mais um dia pq terminei tudo só agora e já não há mais energia pra fazer nada além de tomar banho e maratonar alguma coisa. 
 
-pra se inscrever na versão gratuita do desafio é só clicar no botão -inscrição- que tem no site [30dias.engajaflix.club](30dias.engajaflix.club). 
+pra se inscrever na versão gratuita do desafio é só clicar no botão -inscrição- que tem no site [30dias.engajaflix.club](https://30dias.engajaflix.club). 

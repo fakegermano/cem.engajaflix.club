@@ -10,7 +10,7 @@ comunicação é essencial
 
 em tempos digitais, precisamos estar preparades para existir também nesse território. nossas marcas precisam viver no mundo virtual assim como vivem no mundo offline
 
-aprenda a fazer da comunicação o oxigênio do seu trampo, participe do desafio [30dias.engajaflix.club](30dias.engajaflix.club)
+aprenda a fazer da comunicação o oxigênio do seu trampo, participe do desafio [30dias.engajaflix.club](https://30dias.engajaflix.club)
 
 📌 a primeira edição vai ser gratuita, então não fica aí de bobeira. começa no dia 25/10 e termina 30/11 
 

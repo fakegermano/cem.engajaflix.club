@@ -10,7 +10,7 @@ mudar o mundo, uma história de cada vez
 
 ta prontooooo!!!
 
-finalmente impresso nas minhas mões kkk o poster/zine mais lindo do mundo q vai ser parte do bônus 2 pra quem chegar até o final do desafio [30dias.engajaflix.club](30dias.engajaflix.club)
+finalmente impresso nas minhas mões kkk o poster/zine mais lindo do mundo q vai ser parte do bônus 2 pra quem chegar até o final do desafio [30dias.engajaflix.club](https://30dias.engajaflix.club)
 
 mais uma vez agradecendo todes envolvides em tornar essa brisa numa obra de arte!
 

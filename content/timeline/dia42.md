@@ -12,4 +12,4 @@ um update curtinho só pra constar que cheguei ontem a noite, sp tá um gelo e u
 
 hoje vou desenhar os itinerários pra cada dia e tentar adaptar a minha mala a esse clima londrino que me pegou total desprevenida bauruense calorenta q trouxe 3 casaquinho achando q ia dar certo. 
 
-📌 sobre o [30dias.engajaflix.club](30dias.engajaflix.club), sei q alguns de vcs estão com algumas dúvidas e querendo saber melhor como vai funcionar. pretendo fazer uma live pelo insta (@engajaflix.club) entre hj e amanhã pra responder perguntinhas.
+📌 sobre o [30dias.engajaflix.club](https://30dias.engajaflix.club), sei q alguns de vcs estão com algumas dúvidas e querendo saber melhor como vai funcionar. pretendo fazer uma live pelo insta (@engajaflix.club) entre hj e amanhã pra responder perguntinhas.
