@@ -6,7 +6,7 @@ draft: false
 
 construindo relacionamentos saudáveis com as julias do futuro
 
-{{< figure src="/img/tbtzine.jpg" alt="um meme que é uma cena daquele desenho do homem aranha que tem vários deles apontando um pro outro e aí em cada um tem escrito um dia da semana, segunda, terça, quarta, etc. aí conforme eles apontam tá escrito 'amanhã eu faço', fica nesse círculo sempre deixando pra amanhã" >}}
+{{< figure src="/img/futuro.jpeg" alt="um meme que é uma cena daquele desenho do homem aranha que tem vários deles apontando um pro outro e aí em cada um tem escrito um dia da semana, segunda, terça, quarta, etc. aí conforme eles apontam tá escrito 'amanhã eu faço', fica nesse círculo sempre deixando pra amanhã" >}}
 
 a julia do futuro, pra a julia de hoje, sempre parece que estará mais pronta pra resolver alguma coisa que a julia do presente, ela vai estar mais descansada, mais criativa, mais preparada. 
 
