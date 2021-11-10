@@ -14,7 +14,7 @@ ato 1
 
 ato 2
 
-{{< figure src="/img/ato2.jpeg" alt="no primeiro dia eu gastei um tempão tentando fazer as coisas, mas aí lembrei o q a Julia falou: "não gasta muito tempo nisso". quando não precisou ser perfeito, consegui terminar " >}}
+{{< figure src="/img/ato2.jpeg" alt="no primeiro dia eu gastei um tempão tentando fazer as coisas, mas aí lembrei o q a Julia falou: 'não gasta muito tempo nisso'. quando não precisou ser perfeito, consegui terminar " >}}
 
 ato 3
 
