@@ -6,7 +6,7 @@ draft: false
 
 compartilhando os aprendizados da primeira parte do nosso intensivão 
 
-{{< figure src="/img/atos.jpeg" alt="um resumo do intensivão pt 1 em 3 atos (nas palavras dos fazedores)" >}}
+{{< figure src="/img/atos.jpeg" alt="um resumo do intensivão pt 1 em 3 atos nas palavras dos fazedores" >}}
 
 ato 1
 
