@@ -1,7 +1,7 @@
 ---
 title: "Dia 66"
 date: 2021-11-11T21:32:15-03:00
-draft: true
+draft: false
 ---
 
 como acompanho os fazedores?
