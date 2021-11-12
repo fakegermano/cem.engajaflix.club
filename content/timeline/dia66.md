@@ -6,7 +6,7 @@ draft: true
 
 como acompanho os fazedores?
 
-{{< figure src="/img/acompanhamento.jpeg" alt="um print da tela do pc q mostra uma página do notion com algumas informações sobre uma fazedora, número de missões concluídas, quantos exp acumulados, uma ideia geral do que é o trabalho dela e feedbacks das missões realizadas' " >}}
+{{< figure src="/img/acompanhamento.jpeg" alt="um print da tela do pc q mostra uma página do notion com algumas informações sobre uma fazedora, número de missões concluídas, quantos exp acumulados, uma ideia geral do que é o trabalho dela e feedbacks das missões realizadas " >}}
 
 cada fazedor cadastrado no desafio [30dias.engajaflix.club](https://30dias.engajaflix.club) tem um arquivo personalizado onde acompanho o desenvolvimento das missões, os feedbacks e respostas importantes, o propósito e potencial de cada etapa.
 
