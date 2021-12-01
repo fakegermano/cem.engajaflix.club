@@ -6,7 +6,7 @@ draft: false
 
 contagem regressiva
 
-# 14 dias
+{{< figure src="/img/14dias.jpg" alt="foto de um bonequinho amigurumi de uma tartaruga ninja com um post it no colo escrito 14 dias. botei ela como se tivesse sentada na beira de um vaso de comigo ninguém pode olhando pra frente" >}}
 
 confesso que quando comecei isso aqui duvidei bastante da minha capacidade de terminar os 100 dias, de conseguir organizar as demandas de produção com as de criação, de saber como abordar certos momentos de mais canseira sem cair num lugar motivacional raso de frase de efeito que odeio.
 
