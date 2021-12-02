@@ -14,7 +14,7 @@ quem trampa na 'área criativa' sabe muito bem como é massacrante a demanda con
 
 o processo de criação é gigantesco e muito importante, mas ele é só o começo, não dá pra agir como se fosse o destino final, um objetivo por si só, porque na real, depois do desespero que é conseguir criar algo minimamente bom, precisamos de MANUTENÇÃO. 
 
-uma casa não fica em pé sem manutenção, um pc não sobrevive mais de um ano sem manutenção e sua ideia também vai morrer sem manutenção. 
+uma casa não fica em pé sem manutenção, um pc não sobrevive mais de um ano sem manutenção e uma ideia também vai morrer sem manutenção. 
 
 depois de matutar isso o dia todo, foi só agora que consegui fazer essa conexão na minha própria mente, do objetivo mais puro por trás do desafio [30 dias fazendo](https://30dias.engajaflix.club): manutenção. é sobre possibilitar que as pessoas dêem atenção a detalhes importantíssimos da comunicação do seu trampo criativo, todos os dia. seguir fazendo, de pouco em pouco, mas sempre em movimento.
 
