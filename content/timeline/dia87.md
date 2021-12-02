@@ -6,6 +6,8 @@ draft: false
 
 criação x manutenção
 
+{{< figure src="/img/manutencao.jpeg" alt="um fundo amarelo onde tá escrito criação e manutenção e tem flechinhas de um pro outro, como se fosse um ciclo. no canto superior esquerdo tem uma imagem tipo de uma aba de Photoshop mas ela tá bugada meio se desfazendo. no canto inferior direito tem uma caixinha azul com ícones do Gmail, Instagram, face e YouTube meio saindo dela, como se fosse uma caixa de ferramentas" >}}
+
 hoje fiquei pensando muito sobre esses dois momentos, que existem em todo trabalho bem sucedido. essa palavra, manutenção, não sai da minha cabeça desde cedo. 
 
 quem trampa na 'área criativa' sabe muito bem como é massacrante a demanda constante por criação, numa histeria coletiva que quer viver como se fizesse sentido CRIAR o tempo todo.
