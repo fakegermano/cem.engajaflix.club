@@ -14,6 +14,6 @@ o processo de criação é gigantesco e muito importante, mas ele é só o come�
 
 uma casa não fica em pé sem manutenção, um pc não sobrevive mais de um ano sem manutenção e sua ideia também vai morrer sem manutenção. 
 
-depois de matutar isso o dia todo, foi só agora que consegui fazer essa conexão na minha própria mente, do objetivo mais puro por trás do desafio [30 dias fazendo](https://30dias.engajaflix.club): manutenção. é sobre possibilitar que as pessoas dêem atenção a detalhes importantíssimos da comunicação do seu trampo criativo, todos os dia. 
+depois de matutar isso o dia todo, foi só agora que consegui fazer essa conexão na minha própria mente, do objetivo mais puro por trás do desafio [30 dias fazendo](https://30dias.engajaflix.club): manutenção. é sobre possibilitar que as pessoas dêem atenção a detalhes importantíssimos da comunicação do seu trampo criativo, todos os dia. seguir fazendo, de pouco em pouco, mas sempre em movimento.
 
 é sobre sair dessa pressão infinita por criação e conseguir conectar com o processo de manutenção, eles precisam existir em equilíbrio. 
