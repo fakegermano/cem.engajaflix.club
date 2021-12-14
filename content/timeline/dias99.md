@@ -12,4 +12,4 @@ hoje fiz mais missões do desafio [30dias.engajaflix.club](https://30dias.engaja
 
 sempre fico com medo de fazer submissão nesses rolês pq nunca acho que to no momento certo, bem virginiana olhando só pra o que ainda precisa melhorar. acho que esse saudosismo dos 100 dias me ajudou bastante nesse momento, a obervar com mais cuidado os processos que aconteceram de lá pra cá e organizar melhor as ideias pra responder os formulários.
 
-não tem previsão de quando vão responder alguma coisa, vamos torcendo pra dar bom desde já.
+não tem previsão de quando vão responder alguma coisa, mas vamos torcendo pra dar bom desde já.
